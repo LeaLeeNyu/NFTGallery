@@ -1,0 +1,8 @@
+Model Information:
+* title:	Round Art Gallery
+* source:	https://sketchfab.com/3d-models/round-art-gallery-0a53788eeeed4f84a3fd9e41f6d9b756
+* author:	Onigraphics - VR e Games (https://sketchfab.com/drop05)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
